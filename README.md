@@ -50,11 +50,11 @@ The processor supports a minimal but complete instruction set including:
 
 ## Features
 
-- ✅ Fixed T-state execution cycle for simplified timing
-- ✅ Microprogrammed control unit with ROM-based control words
-- ✅ TTY-style hexadecimal display
-- ✅ System reset capability
-- ✅ Modular component design for easy testing and debugging
+- Fixed T-state execution cycle for simplified timing
+- Microprogrammed control unit with ROM-based control words
+- TTY-style hexadecimal display
+- System reset capability
+- Modular component design for easy testing and debugging
 
 ## Example Programs
 
